@@ -1,0 +1,27 @@
+<!-- technology is the variable which is used to iterating the data from the array technologies -->
+<div>Displying values from the Array technologies.</div>
+<ul>
+    <li *ngFor="let technology of technologies">
+        {{ technology }}
+    </li>
+</ul>
+
+
+<!-- data is the variable which is used to iterating the data from the array mixedArray -->
+<div>Displying values from the Array mixedArray.</div>
+<ul>
+    <li *ngFor="let data of mixedArray">
+        {{ data }}
+    </li>
+</ul>
+
+<!-- angular is the variable which is used to iterating the data from the array angularArray -->
+<div>Displying values from the Array angularArray.</div>
+<table>
+    <tr *ngFor="let angular of angularArray">
+        <td>Id : {{angular.id}}</td>
+        <td>Name : {{angular.name}}</td>
+    </tr>
+</table>
+
+<router-outlet></router-outlet>
