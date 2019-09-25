@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Structural Directive:(NgFor - Data Iteration)](https://vjtechdiary.blogspot.com/2019/09/structural-directive-ngfor-data.html) on [VJ Tech Diary](https://vjtechdiary.blogspot.com). 
+Read tutorial [Structural Directive:(NgFor - Data Iteration)](https://www.vjtechworld.com/2019/09/structural-directive-ngfor-data.html) on [VJ Tech World](https://www.vjtechworld.com). 
 
 ## Install Dependencies
 
